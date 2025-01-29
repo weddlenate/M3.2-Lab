@@ -1,8 +1,8 @@
-# web-dev-starter
+# Letter Mark Up
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This project is a markup of a letter within an HTML file. The goal was to make
+it look exactly the same as the letter shown on this page 
+https://boisestatecanvas.instructure.com/courses/35961/assignments/1207756?module_item_id=3592230.
 
 ## Getting Started
 
